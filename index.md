@@ -37,16 +37,7 @@
         text here. Write your text here. Write your text here. Write your text 
         here. Write your text here. Write your text here. Write your text here. 
         </font></p>
-      <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><img src="Put_your_picture_here_150x.jpg" width="150" height="113" vspace="4" hspace="4" align="left" border="1">Write 
-        your text here. Write your text here. Write your text here. Write your 
-        text here. Write your text here. Write your text here. Write your text 
-        here. Write your text here. Write your text here. Write your text here. 
-        Write your text here. Write your text here. Write your text here. Write 
-        your text here. Write your text here. Write your text here. Write your 
-        text here. Write your text here. Write your text here. Write your text 
-        here. Write your text here. Write your text here. Write your text here. 
-        Write your text here. Write your text here. Write your text here. Write 
-        your text here.</font></p>
+      <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><img src="Put_your_picture_here_150x.jpg" width="150" height="113" vspace="4" hspace="4" align="left" border="1" Outdoor Kirtan in the evenings in Provo and elsewhere. Prasadam. Wednesday Bhagavad Gita Class Shuttle with Kishore Krishna Das</font></p>
       <p align="justify"><font color="#333333" face="Verdana, Arial, Helvetica, sans-serif" size="-1"><i><font color="#000000">-- 
         Sign off here</font><br>
         </i></font></p>
