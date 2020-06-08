@@ -15,13 +15,13 @@
   </tr>
   <tr> 
     <td> 
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="+1"><b>Header 
-        of the document</b></font> </p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif">Short description 
-        line 1 <br>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="+1"><b>Bhakti Yoga! (Krishna Consciousness)
+</b></font> </p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">hat We've Been Looking for.
+<br>
         (Template for text with small pictures)<br>
         <br>
-        <font color="#333333" size="-1">by whoever wrote/spoke it</font></font> 
+        <font color="#333333" size="-1">by Kishore Krishna Das</font></font> 
       </p>
       <hr>
       <p align="justify"> <font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><img src="Put_your_picture_here_150x.jpg" width="150" height="113" vspace="4" hspace="4" align="right" border="1"Hare Krsna! This is website for Bhakti Yoga Club Provo. We're a growing group committed to the sublime philosophy of Krishna Consciousness (Nama-Kirtan) as illuminated by Sri Chaitanya Mahaprabhu 500 years ago in West Bengal. Our spiritual practice surrounds the chanting of the Hare Krsna Maha Mantra in congregation, Having talks and discourses on God (Sri Krsna-- Reality The Beautiful) and the nature of the pure reality, the honoring of Maha-Prasadam (Holy Food), and Vaishnava-Seva (serving the Vaishnava devotees). Our spiritual conception is based on pure positive and progressive theism as illuminated by Srila Rupa Goswami, Srila Bhaktisiddhanta Saraswati Thakur Prabhupada, and his most dear disciple Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj. In our conception The Absolute; God is a person-- and He is pure, beautfiul Reality far removed from the tainting of material existence, provincial-localized interest, and the notion of negativist liberation in undifferentiated-monistic oneness (Brahman).
