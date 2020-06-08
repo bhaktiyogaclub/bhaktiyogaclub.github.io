@@ -15,8 +15,7 @@
   </tr>
   <tr> 
     <td> 
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="+1"><b>Bhakti Yoga! (Krishna Consciousness)
-</b></font> </p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="+1"><b>Bhakti Yoga Club</b></font> </p>
       <p><font face="Verdana, Arial, Helvetica, sans-serif">hat We've Been Looking for.
 <br>
         (Template for text with small pictures)<br>
