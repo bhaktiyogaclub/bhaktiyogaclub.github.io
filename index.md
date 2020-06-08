@@ -37,7 +37,7 @@ In a nutshell-- We are chanting the holy names of Sri Krsna and making an attemp
 no dīkṣāṁ na ca sat-kriyāṁ na ca puraścaryāṁ manāg īkṣate  <br>
 mantro 'yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ</font></p>
       <p align="justify"><font color="#333333" face="Verdana, Arial, Helvetica, sans-serif" size="-1"><i><font color="#000000">-- 
-        Sign off here</font><br>
+        Kishore Krishna Das</font><br>
         </i></font></p>
       <hr>
     </td>
