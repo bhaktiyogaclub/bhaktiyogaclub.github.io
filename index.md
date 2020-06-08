@@ -29,6 +29,9 @@
 In a nutshell-- We are chanting the holy names of Sri Krsna and making an attempt to give honor and respect to all others-- seeing all parts as part of an organic ontological whole which is being lovingly and attentively attended to by the source of all sweetness and consciousness. Reality is a flow of waves of incredible love and beauty (Rasa) and we are attempting, however unsuccessfully, to receive those waves in accordance with the grace that has been administered to us by our Guru-Varga. Hare Krsna. Nitai Gaura Haribol.
         </font></p>
       <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><img src="Put_your_picture_here_150x.jpg" width="150" height="113" vspace="4" hspace="4" align="left" border="1">We have outdoor Kirtan in Provo (most) every night when the weather allows, programs for honoring Lord Krsna's Prasadam (holy food), and we're offering a carpool shuttle up to the SCS Mission in Salt Lake for anyone who wants to associate. Also! A library of books by our beloved Srila Sridhar Maharaj and his foremost disciple Srila Govinda Maharaj can be found at the link to our main Math website shared below.
+  
+  <br>
+  <br>
 
 ākṛṣṭiḥ kṛta-cetasāṁ sumanasām uccāṭanaṁ cāṁhasām
 ācaṇḍālam amūka-loka-sulabho vaśyaś ca mukti-śriyaḥ
