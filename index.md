@@ -16,9 +16,9 @@
   <tr> 
     <td> 
       <p><font face="Verdana, Arial, Helvetica, sans-serif" size="+1"><b>Bhakti Yoga Club</b></font> </p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif">hat We've Been Looking for.
+      <p><font face="Verdana, Arial, Helvetica, sans-serif">What We've Been Searching for.
 <br>
-        (Template for text with small pictures)<br>
+   <br>
         <br>
         <font color="#333333" size="-1">by Kishore Krishna Das</font></font> 
       </p>
