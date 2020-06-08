@@ -33,9 +33,9 @@ In a nutshell-- We are chanting the holy names of Sri Krsna and making an attemp
   <br>
   <br>
 
-ākṛṣṭiḥ kṛta-cetasāṁ sumanasām uccāṭanaṁ cāṁhasām
-ācaṇḍālam amūka-loka-sulabho vaśyaś ca mukti-śriyaḥ
-no dīkṣāṁ na ca sat-kriyāṁ na ca puraścaryāṁ manāg īkṣate
+ākṛṣṭiḥ kṛta-cetasāṁ sumanasām uccāṭanaṁ cāṁhasām <br>
+ācaṇḍālam amūka-loka-sulabho vaśyaś ca mukti-śriyaḥ <br>
+no dīkṣāṁ na ca sat-kriyāṁ na ca puraścaryāṁ manāg īkṣate  <br>
 mantro 'yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ</font></p>
       <p align="justify"><font color="#333333" face="Verdana, Arial, Helvetica, sans-serif" size="-1"><i><font color="#000000">-- 
         Sign off here</font><br>
