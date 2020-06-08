@@ -1,6 +1,5 @@
 <HTML>
 <HEAD>
-<TITLE>Bhakti Yoga Club</TITLE>
 </HEAD>
 <BODY bgcolor="#FFFFFF">
 <table width="516" cellspacing="0" cellpadding="8" class="body" align="center" bgcolor="#FFFFFF">
