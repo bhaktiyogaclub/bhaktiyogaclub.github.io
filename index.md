@@ -30,13 +30,14 @@ In a nutshell-- We are chanting the holy names of Sri Krsna and making an attemp
   <br>
   <br>
 
-ākṛṣṭiḥ kṛta-cetasāṁ sumanasām uccāṭanaṁ cāṁhasām <br>
+<a href="http://scsmath.com/centers.html">ākṛṣṭiḥ kṛta-cetasāṁ sumanasām uccāṭanaṁ cāṁhasām <br>
 ācaṇḍālam amūka-loka-sulabho vaśyaś ca mukti-śriyaḥ <br>
 no dīkṣāṁ na ca sat-kriyāṁ na ca puraścaryāṁ manāg īkṣate  <br>
-mantro 'yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ</font></p>
+mantro 'yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ</font></p></a>
       <p align="justify"><font color="#333333" face="Verdana, Arial, Helvetica, sans-serif" size="-1"><i><font color="#000000">-- 
         Kishore Krishna Das</font><br>
         </i></font></p>
+        https://vedabase.io/en/library/cc/madhya/15/110/
       <hr>
     </td>
   </tr>
