@@ -38,8 +38,7 @@ mantro 'yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ</font>
         Kishore Krishna Das</font><br>
         </i></font></p>
        
-      <hr>
-    </td>
+     
   </tr>
   <tr> 
     <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="icon_tilak_trnsprnt.gif" width=28 height=40> Sri 
