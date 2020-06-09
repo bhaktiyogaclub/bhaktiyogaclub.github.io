@@ -28,6 +28,7 @@ In a nutshell-- We are chanting the holy names of Sri Krsna and making an attemp
       <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><img src="nicelyfin.jpg" width="150" height="113" vspace="4" hspace="4" align="left" border="1">We have outdoor Kirtan in Provo (most) every night when the weather allows, programs for honoring Lord Krsna's Prasadam (holy food), and we're offering a carpool shuttle up to the SCS Mission in Salt Lake for anyone who wants to associate. Also! A library of books by our beloved Srila Sridhar Maharaj and his foremost disciple Srila Govinda Maharaj can be found at the link to our main Math website shared below.
   
   <br>
+  <br>
 
 ākṛṣṭiḥ kṛta-cetasāṁ sumanasām uccāṭanaṁ cāṁhasām <br>
 ācaṇḍālam amūka-loka-sulabho vaśyaś ca mukti-śriyaḥ <br>
@@ -40,7 +41,7 @@ mantro 'yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ</font>
     </td>
   </tr>
   <tr> 
-    <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="icon_tilak_trnsprnt.gif" width=28 height=40 align="left">Sri 
+    <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="icon_tilak_trnsprnt.gif" width=28 height=40 align="left"> Sri 
       Chaitanya Saraswat Math, Nabadwip<br>
       <a href="http://scsmath.com">http://scsmath.com</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"> 
       | <a href="http://scsmath.com/centers.html">Main Centres</a> | <a href="http://scsmath.com/new.html">What's&nbsp;New?</a></font></td>
