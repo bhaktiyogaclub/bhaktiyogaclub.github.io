@@ -41,7 +41,7 @@ mantro 'yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ</font>
     </td>
   </tr>
   <tr> 
-    <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="icon_tilak_trnsprnt.gif" width=28 height=40 align="left"> Sri 
+    <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="icon_tilak_trnsprnt.gif" width=28 height=40> Sri 
       Chaitanya Saraswat Math, Nabadwip<br>
       <a href="http://scsmath.com">http://scsmath.com</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"> 
       | <a href="http://scsmath.com/centers.html">Main Centres</a> | <a href="http://scsmath.com/new.html">What's&nbsp;New?</a></font></td>
