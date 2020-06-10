@@ -50,6 +50,6 @@ mantro 'yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ</font>
     <td>
       <hr>
     </td>
-  </tr>
+
 </table>
 
